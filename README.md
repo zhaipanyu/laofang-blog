@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ##
-老方的思想集中地
+记录老方的人生哲学
